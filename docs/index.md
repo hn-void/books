@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
+[What I learned](wil.html)
+
 # Record of Reading
 
 | Title | Author | Understanding | Rating | Date | Genre |
@@ -9,4 +11,4 @@
 | 12 Years a Slave | Solomon Northup | 95 | 90 | 20200716 | History |
 | Programming in Haskell 2nd edition | Graham Hutton | 35 | 100 | WIP | Computer Science |
 | TOEFLテスト 上級英単語2500 | AmEnglish.com, Inc. | 65 | 100 | WIP | English |
-| problem solving with algorithms and data structures using python | Bradley N. Miller, David L. Ranum | 60 | 100 | WIP | Computer Science |
+| problem solving with algorithms and data structures using python | Bradley N. Miller, David L. Ranum | 60 | 90 | WIP | Computer Science |
