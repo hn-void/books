@@ -6,6 +6,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20200928 | n queens<br>several problems of recursion<br>english words<br>countUnivalTrees |
+| 20200927 | several problems of tree<br>english words |
 | 20200926 | Don't forget to return recursively<br>BST successor, predecessor, delete, BFS, traversal, english words |
 | 20200925 | English words<br>the fundamentals of BST(Binary Search Tree) |
 | 20200924 | sum(List)<br>formed brackets with stack |
