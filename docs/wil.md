@@ -6,7 +6,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20200929 | Don't forget the fact that the bool after "and" may not be evaluated, some problems of recursion|
+| 20200930 | stack instead of recursion<br>several problems of trees<br>english words|
+| 20200929 | Don't forget the fact that the bool after "and" may not be evaluated<br>some problems of recursion|
 | 20200928 | n queens<br>several problems of recursion<br>english words<br>countUnivalTrees |
 | 20200927 | several problems of tree<br>english words |
 | 20200926 | Don't forget to return recursively<br>BST successor, predecessor, delete, BFS, traversal, english words |
