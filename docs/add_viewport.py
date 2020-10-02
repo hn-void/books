@@ -1,13 +1,12 @@
+import glob
+
+
 text = '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+html_list = glob.glob('*.html')
 
-with open('index.html', 'r') as f:
-    text1 = text + f.read()
-
-with open('index.html', 'w') as f:
-    f.write(text1)
-
-with open('wil.html', 'r') as f:
-	text2 = text + f.read()
-
-with open('wil.html', 'w') as f:
-	f.write(text2)
+for html_file in html_list:
+	content = ''
+	with open(html_file, 'r') as f:
+		content = text + f.read()
+	with open(html_file, 'w') as f:
+		f.write(content)
