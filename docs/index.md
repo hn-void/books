@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-[What I learned](wil.html)
+[What I learned](wil.html)<br>
+[Stacks of Books to Read](sobtr.html)<br>
 
 # Record of Reading
 
