@@ -7,8 +7,11 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201004 | took a class about Graph<br>English words |
+| 20201003 | Graph(data structure)<br>English words<br>Eulerian Cycle, Path |
+| 20201002 | English words |
 | 20201001 | several problems of trees<br>BinarySearchTree to sorted array<br>English words |
-| 20200930 | stack instead of recursion<br>several problems of trees<br>english words|
+| 20200930 | nqueens<br>stack instead of recursion<br>several problems of trees<br>english words|
 | 20200929 | Don't forget the fact that the bool after "and" may not be evaluated<br>some problems of recursion|
 | 20200928 | n queens<br>several problems of recursion<br>english words<br>countUnivalTrees |
 | 20200927 | several problems of tree<br>english words |
