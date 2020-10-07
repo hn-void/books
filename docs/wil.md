@@ -7,7 +7,9 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20201004 | took a class about Graph<br>English words |
+| 20201006 | No need to visit a cell that has been visited before with the same keyring we have now.<br>English words<br>Shortest Path In 2D Grid With Keys And Doors |
+| 20201005 | Knight's Tour On A Chess Board(BFS) |
+| 20201004 | took a class about Graph(BFS, DFS, Topological Sort)<br>English words |
 | 20201003 | Graph(data structure)<br>English words<br>Eulerian Cycle, Path |
 | 20201002 | English words |
 | 20201001 | several problems of trees<br>BinarySearchTree to sorted array<br>English words |
