@@ -7,6 +7,9 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201012 | Reviewed Sorting problems |
+| 20201011 | took a class about dynamic programming and solve 3 problems |
+| 20201010 | recursion and dynamic programming |
 | 20201008 | tackled graph problems(topological sort) and took a class about that<br>english words | 
 | 20201007 | "in" is the intended way to test for the existence of a key in a dict.<br>dict usage<br>English words|
 | 20201006 | No need to visit a cell that has been visited before with the same keyring we have now.<br>English words<br>Shortest Path In 2D Grid With Keys And Doors |
