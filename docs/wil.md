@@ -7,7 +7,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20201012 | Reviewed Sorting problems |
+| 20201013 | Reviewed Sorting problems<br>English words |
+| 20201012 | Reviewed Sorting problems<br>English words |
 | 20201011 | took a class about dynamic programming and solve 3 problems |
 | 20201010 | recursion and dynamic programming |
 | 20201008 | tackled graph problems(topological sort) and took a class about that<br>english words | 
