@@ -7,6 +7,7 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201014 | English words<br>Quicksort |
 | 20201013 | Reviewed Sorting problems<br>English words |
 | 20201012 | Reviewed Sorting problems<br>English words |
 | 20201011 | took a class about dynamic programming and solve 3 problems |
