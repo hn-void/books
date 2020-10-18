@@ -7,6 +7,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201017 | Mock interview of sorting<br>English words<br>System Design Foundation Materials |
+| 20201016 | English words<br>Sorting |
 | 20201015 | English words<br>Took a test and class about DP<br>Fuck HackerRank|
 | 20201014 | English words<br>Quicksort |
 | 20201013 | Reviewed Sorting problems<br>English words |
