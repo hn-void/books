@@ -7,6 +7,13 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201024 | English words<br>System Design|
+| 20201023 | English words<br>System Design |
+| 20201022 | English words |
+| 20201021 | Watched videos about system design |
+| 20201020 | Watched videos about system design(consistent sharding) |
+| 20201019 | Watched videos about system design |
+| 20201018 | Took a class about system design(Login)|
 | 20201017 | Mock interview of sorting<br>English words<br>System Design Foundation Materials |
 | 20201016 | English words<br>Sorting |
 | 20201015 | English words<br>Took a test and class about DP<br>Fuck HackerRank|
