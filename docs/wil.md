@@ -7,6 +7,13 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201031 | English words |
+| 20201030 | English words |
+| 20201029 | English words |
+| 20201028 | English words<br>taxi system |
+| 20201027 | English words<br>something of Uber |
+| 20201026 | English words |
+| 20201025 | CAS<br>atomic instruction<br>ABA problem<br>Writes are 40 times more expensive than reads.<br>from horse's mouth|
 | 20201024 | English words<br>System Design|
 | 20201023 | English words<br>System Design |
 | 20201022 | English words |
