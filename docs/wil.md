@@ -7,6 +7,7 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201101 | Took a class about system design<br>English words|
 | 20201031 | English words |
 | 20201030 | English words |
 | 20201029 | English words |
