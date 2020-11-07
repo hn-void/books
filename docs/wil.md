@@ -7,10 +7,13 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20201104 | Read a book<br>English words<br>System design|
-| 20201103 | Read a book<br>English words<br>System design|
-| 20201102 | Read a book<br>English words|
-| 20201101 | Took a class about system design<br>English words|
+| 20201107 | Read a book |
+| 20201106 | Read a book<br>took a class about system design |
+| 20201105 | Read a book<br>English words<br>System design |
+| 20201104 | Read a book<br>English words<br>System design |
+| 20201103 | Read a book<br>English words<br>System design |
+| 20201102 | Read a book<br>English words |
+| 20201101 | Took a class about system design<br>English words |
 | 20201031 | English words |
 | 20201030 | English words |
 | 20201029 | English words |
