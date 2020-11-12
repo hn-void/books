@@ -7,7 +7,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20201111 | Read a book<br>English words<br>OSS? |
+| 20201112 | Read a book<br>English words<br>OSS?<br>Design Pattern |
+| 20201111 | Read a book<br>English words<br>OSS?<br>API Design |
 | 20201110 | Read a book |
 | 20201109 | took a class about api or something<br>OSS? |
 | 20201108 | RESTful API<br>SOLID<br>OSS|
