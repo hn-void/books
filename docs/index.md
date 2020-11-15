@@ -7,9 +7,10 @@
 
 | Title | Author | Understanding | Rating | Date | Genre |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Rich Dad Poor Dad | Robert T. Kiyosaki | 90 | 70 | 20200401 | Finance & Spirituality |
-| A Random Walk Down Wall Street 11th | Burton G. Malkiel | 65 | 90 | 20200518 | Finance |
+| The Art of the Good Life | Rolf Dobelli | 90 | 80 | 20201114 | self-help |
 | 12 Years a Slave | Solomon Northup | 95 | 90 | 20200716 | History |
+| A Random Walk Down Wall Street 11th | Burton G. Malkiel | 65 | 90 | 20200518 | Finance |
+| Rich Dad Poor Dad | Robert T. Kiyosaki | 90 | 70 | 20200401 | Finance & Spirituality |
 | Programming in Haskell 2nd edition | Graham Hutton | 35 | 100 | WIP | Computer Science |
 | TOEFLテスト 上級英単語2500 | AmEnglish.com, Inc. | 75 | 100 | WIP | English |
 | problem solving with algorithms and data structures using python | Bradley N. Miller, David L. Ranum | 60 | 90 | WIP | Computer Science |
