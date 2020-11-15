@@ -7,7 +7,7 @@
 
 | Title | Author | Understanding | Rating | Date | Genre |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| The Art of the Good Life | Rolf Dobelli | 90 | 80 | 20201114 | self-help |
+| The Art of the Good Life | Rolf Dobelli | 90 | 80 | 20201114 | Self-Help |
 | 12 Years a Slave | Solomon Northup | 95 | 90 | 20200716 | History |
 | A Random Walk Down Wall Street 11th | Burton G. Malkiel | 65 | 90 | 20200518 | Finance |
 | Rich Dad Poor Dad | Robert T. Kiyosaki | 90 | 70 | 20200401 | Finance & Spirituality |

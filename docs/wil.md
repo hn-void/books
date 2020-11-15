@@ -7,6 +7,7 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201114 | Read a book |
 | 20201113 | Read a book |
 | 20201112 | Read a book<br>English words<br>OSS?<br>Design Pattern |
 | 20201111 | Read a book<br>English words<br>OSS?<br>API Design |
