@@ -5,7 +5,7 @@
 
 # Record of Reading
 
-| Title | Author | Understanding | Rating | Date | Genre |
+| Title | Author | Understanding | (My Personal) Rating | Date | Genre |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | The Art of the Good Life | Rolf Dobelli | 90 | 80 | 20201114 | Self-Help |
 | 12 Years a Slave | Solomon Northup | 95 | 90 | 20200716 | History |
