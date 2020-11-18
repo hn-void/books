@@ -7,6 +7,7 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201117 | Heap, QuickSelect problem|
 | 20201116 | English words |
 | 20201115 | English words |
 | 20201114 | Read a book |
