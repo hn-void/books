@@ -7,7 +7,13 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20201117 | Heap, QuickSelect problem|
+| 20201123 | Read a book<br>English words |
+| 20201122 | Resume & LinkedIn |
+| 20201121 | Read a book<br>English words |
+| 20201120 | Resume & LinkedIn<br>English words |
+| 20201119 | Resume & LinkedIn |
+| 20201118 | Took a class about dealing with anxiety? |
+| 20201117 | Heap, QuickSelect problem<br>Quick Sort is an in place sorting algorithm |
 | 20201116 | English words |
 | 20201115 | English words |
 | 20201114 | Read a book |
