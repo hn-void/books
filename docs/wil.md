@@ -7,7 +7,10 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20201123 | Read a book<br>English words |
+| 20201126 | English words |
+| 20201125 | English words<br>Read a book<br>Generate all subsets(Recursion) |
+| 20201124 | English words<br>Took a class about Resume&LinkedIn |
+| 20201123 | Read a book<br>English words<br>Solved one sorting question |
 | 20201122 | Resume & LinkedIn |
 | 20201121 | Read a book<br>English words |
 | 20201120 | Resume & LinkedIn<br>English words |
