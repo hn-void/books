@@ -7,6 +7,9 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201129 | Slept like a dog |
+| 20201128 | English words |
+| 20201127 | English words |
 | 20201126 | English words |
 | 20201125 | English words<br>Read a book<br>Generate all subsets(Recursion) |
 | 20201124 | English words<br>Took a class about Resume&LinkedIn |
