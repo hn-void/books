@@ -7,6 +7,14 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201207 | English words<br>Applied some recruitment agencies<br>Sorting Algorithms |
+| 20201206 | English words |
+| 20201205 | English words |
+| 20201204 | English words |
+| 20201203 | English words |
+| 20201202 | English words<br>Career Coaching |
+| 20201201 | English words |
+| 20201130 | English words |
 | 20201129 | Slept like a dog |
 | 20201128 | English words |
 | 20201127 | English words |
