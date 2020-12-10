@@ -7,7 +7,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20201207 | English words<br>Applied some recruitment agencies<br>Sorting Algorithms |
+| 20201208 | English words<br>Preparation for offer negotiations<br>heapq |
+| 20201207 | English words<br>Applied some recruitment agencies<br>Sorting Algorithms<br>OSS |
 | 20201206 | English words |
 | 20201205 | English words |
 | 20201204 | English words |
