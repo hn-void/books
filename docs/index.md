@@ -7,6 +7,7 @@
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Brown Bear, Brown Bear, What Do you See? | Bill Martin Jr / Eric Carle | 80 | 100 | 20201212 | Picture Book |
 | 2500 Advanced English Words for the TOEFL Test | AmEnglish.com, Inc. | 80 | 100 | 20201207 | English |
 | The Very Hungry Caterpillar | Eric Carle | 80 | 100 | 20201116 | Picture Book |
 | The Art of the Good Life | Rolf Dobelli | 90 | 80 | 20201114 | Self-Help |
