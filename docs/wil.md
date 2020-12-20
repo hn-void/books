@@ -7,6 +7,11 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201219 | Reading |
+| 20201218 | Reading |
+| 20201217 | Graph problems |
+| 20201216 | Reading<br>English words<br>Graph problems|
+| 20201215 | Did nothing(Rested) |
 | 20201214 | English words<br>Reading<br>OSS?<br>Recursion Problems |
 | 20201212 | English words<br>OSS?<br>Reading |
 | 20201211 | English words |

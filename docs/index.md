@@ -7,6 +7,7 @@
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| You Are a Badass| Jen Sincero | 70 | 35 | 20201219 | Spirituality |
 | Brown Bear, Brown Bear, What Do you See? | Bill Martin Jr / Eric Carle | 80 | 100 | 20201212 | Picture Book |
 | 2500 Advanced English Words for the TOEFL Test | AmEnglish.com, Inc. | 80 | 100 | 20201207 | English |
 | The Very Hungry Caterpillar | Eric Carle | 80 | 100 | 20201116 | Picture Book |
