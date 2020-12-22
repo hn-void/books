@@ -7,6 +7,7 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20201221 | English words<br>AVL tree |
 | 20201220 | English words<br>Graph problem<br>AVL tree |
 | 20201219 | Reading<br>AVL tree<br>Graph problem |
 | 20201218 | Reading |
