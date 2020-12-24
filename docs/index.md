@@ -7,6 +7,7 @@
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Introducing GitHub | Peter Bell & Brent Beer | 95 | 70 | 20201224 | Technology for SWE|
 | You Are a Badass| Jen Sincero | 70 | 35 | 20201219 | Spirituality |
 | Brown Bear, Brown Bear, What Do you See? | Bill Martin Jr / Eric Carle | 80 | 100 | 20201212 | Picture Book |
 | 2500 Advanced English Words for the TOEFL Test | AmEnglish.com, Inc. | 80 | 100 | 20201207 | English |
