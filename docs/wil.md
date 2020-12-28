@@ -7,8 +7,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20201227 | Read a book about Git<br> |
-| 20201226 | English words<br>Graph problems<br>construct graph tree using in-order and pre-order |
+| 20201227 | Read a book about Git<br>English words<br>Tree problems<br>Merge Sort<br>Iterate Binary Tree |
+| 20201226 | English words<br>Tree problems<br>construct graph tree using in-order and pre-order |
 | 20201225 | English words<br>Coding |
 | 20201224 | Reading<br>GitHub<br>English words<br>AVL Tree |
 | 20201223 | Reading<br>English words<br>GitHub |
