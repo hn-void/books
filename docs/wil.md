@@ -7,6 +7,11 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20210101 | English words |
+| 20201231 | English words |
+| 20201230 | MTG<br>English words |
+| 20201229 | English words<br>Merge Sort<br>Quick Sort |
+| 20201228 | Read a book about Git<br>English words<br>Merge Sort |
 | 20201227 | Read a book about Git<br>English words<br>Tree problems<br>Merge Sort<br>Iterate Binary Tree |
 | 20201226 | English words<br>Tree problems<br>construct graph tree using in-order and pre-order |
 | 20201225 | English words<br>Coding |
