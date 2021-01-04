@@ -7,6 +7,7 @@
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre | Comment |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Essential English Words for The TOEFL Test | AmEnglish.com, Inc. | 80 | 100 | 20200103 | English | Beneficial for catching up with native English speakers |
 | Introducing GitHub | Peter Bell & Brent Beer | 95 | 70 | 20201224 | Technology for SWE| This book is perfect for a non-programmer who wants to know how software engineers in his/her company collaborate. However, there is nothing special for ordinary SWEs. If you are an entry-level programmer and entirely new to Git concepts, it is good to skim this book. |
 | You Are a Badass| Jen Sincero | 70 | 35 | 20201219 | Spirituality | Nothing is objective. I'm not a religious person, so this book doesn't look helpful to me. I know some types of people need and love this type of book. This book is just not for me. |
 | Brown Bear, Brown Bear, What Do you See? | Bill Martin Jr / Eric Carle | 80 | 100 | 20201212 | Picture Book | Wonderful pictures |

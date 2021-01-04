@@ -7,6 +7,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20200103 | English words<br>Merge Sort<br>Quick Sort |
+| 20200102 | English words |
 | 20210101 | English words |
 | 20201231 | English words |
 | 20201230 | MTG<br>English words |
