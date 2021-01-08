@@ -7,7 +7,11 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20200103 | English words<br>Merge Sort<br>Quick Sort |
+| 20200107 | Graph problem(BFS, deque)<br>Coding?<br>Resignation notice<br>English words |
+| 20200106 | English words<br>Read a book about Git<br>Coding |
+| 20200105 | English words<br>Read a book about Git |
+| 20200104 | English words<br>Read a book about Git |
+| 20200103 | English words<br>Merge Sort<br>Quick Sort<br>Coding |
 | 20200102 | English words |
 | 20210101 | English words |
 | 20201231 | English words |
