@@ -19,3 +19,4 @@
 | Rich Dad Poor Dad | Robert T. Kiyosaki | 90 | 70 | 20200401 | Finance & Spirituality | Interesting, but consists of nothing |
 | Programming in Haskell 2nd edition | Graham Hutton | 35 | 100 | WIP | Computer Science | |
 | problem solving with algorithms and data structures using python | Bradley N. Miller, David L. Ranum | 60 | 90 | WIP | Computer Science | |
+| Version Control with Git | Jon Loeliger & Matthew McCullough | WIP | 100 | WIP | Technology | |
