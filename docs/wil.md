@@ -7,6 +7,10 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20200113 | Sick |
+| 20200112 | English words<br>Read a book about Git|
+| 20200111 | Graph problem(Critical Connections)<br>Letter of Resignation<br>English words |
+| 20200110 | Graph problem(Zombie Cluster)<br>collections.deque<br>English words<br>Read a book about Git |
 | 20200109 | English words<br>Coding?<br>Read a book about Git|
 | 20200108 | Sent a resignation notice!<br>English words<br>Read a book about Git |
 | 20200107 | Graph problem(BFS, deque)<br>Coding?<br>Resignation notice<br>English words |
