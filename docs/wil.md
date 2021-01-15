@@ -7,18 +7,20 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20200113 | Sick |
-| 20200112 | English words<br>Read a book about Git|
-| 20200111 | Graph problem(Critical Connections)<br>Letter of Resignation<br>English words |
-| 20200110 | Graph problem(Zombie Cluster)<br>collections.deque<br>English words<br>Read a book about Git |
-| 20200109 | English words<br>Coding?<br>Read a book about Git|
-| 20200108 | Sent a resignation notice!<br>English words<br>Read a book about Git |
-| 20200107 | Graph problem(BFS, deque)<br>Coding?<br>Resignation notice<br>English words |
-| 20200106 | English words<br>Read a book about Git<br>Coding |
-| 20200105 | English words<br>Read a book about Git |
-| 20200104 | English words<br>Read a book about Git |
-| 20200103 | English words<br>Merge Sort<br>Quick Sort<br>Coding |
-| 20200102 | English words |
+| 20210115 | TODO: Critical Connections|
+| 20210114 | Read articles about bridge in graph theory<br>English words<br>Read some articles on Indeed<br>Read a book about Git |
+| 20210113 | Sick |
+| 20210112 | English words<br>Read a book about Git|
+| 20210111 | Graph problem(Critical Connections)<br>Letter of Resignation<br>English words |
+| 20210110 | Graph problem(Zombie Cluster)<br>collections.deque<br>English words<br>Read a book about Git |
+| 20210109 | English words<br>Coding?<br>Read a book about Git|
+| 20210108 | Sent a resignation notice!<br>English words<br>Read a book about Git |
+| 20210107 | Graph problem(BFS, deque)<br>Coding?<br>Resignation notice<br>English words |
+| 20210106 | English words<br>Read a book about Git<br>Coding |
+| 20210105 | English words<br>Read a book about Git |
+| 20210104 | English words<br>Read a book about Git |
+| 20210103 | English words<br>Merge Sort<br>Quick Sort<br>Coding |
+| 20210102 | English words |
 | 20210101 | English words |
 | 20201231 | English words |
 | 20201230 | MTG<br>English words |
