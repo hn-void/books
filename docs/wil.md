@@ -7,6 +7,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20210118 | English words<br>AWS<br>Read a book about Git |
+| 20210117 | English words<br>Read a book about Git<br>Surveyed about servers |
 | 20210116 | English words<br>Read a book about Git<br>Read an article about career(not helpful) |
 | 20210115 | English words |
 | 20210114 | Read articles about bridge in graph theory<br>English words<br>Read some articles on Indeed<br>Read a book about Git |
