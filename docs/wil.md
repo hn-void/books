@@ -7,7 +7,13 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20210118 | English words<br>AWS<br>Read a book about Git |
+| 20210124 | Coding<br>Read an article about the STAR method<br>English words |
+| 20210123 | Coding |
+| 20210122 | Coding<br>Resume<br>LinkedIn |
+| 20210121 | Slept like a dog |
+| 20210120 | English words<br>Resume |
+| 20210119 | Ordered a new PC<br>Played with AWS |
+| 20210118 | English words<br>AWS<br>Read a book about Git<br>Acquired domain by Google Domains |
 | 20210117 | English words<br>Read a book about Git<br>Surveyed about servers |
 | 20210116 | English words<br>Read a book about Git<br>Read an article about career(not helpful) |
 | 20210115 | English words |
