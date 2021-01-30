@@ -7,6 +7,11 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20210129 | Reading |
+| 20210128 | English words |
+| 20210127 | English words |
+| 20210126 | English words<br>Read a book about Git<br>a little bit coding |
+| 20210125 | English words<br>Read a book about Git |
 | 20210124 | Coding<br>Read an article about the STAR method<br>English words |
 | 20210123 | Coding |
 | 20210122 | Coding<br>Resume<br>LinkedIn |
