@@ -7,7 +7,8 @@
 
 | Date | What I studied |
 |:---:|:---:|
-| 20210201 | LinkedIn<br>Interview Prep<br>Quick Sort<br>Merge Sort<br>Using heap when sorting<br>Sorting Problems |
+| 20210202 | Sorting<br>Interview Prep<br>English |
+| 20210201 | LinkedIn Prep<br>Interview Prep<br>Quick Sort<br>Merge Sort<br>Using heap when sorting<br>Sorting Problems |
 | 20210131 | Tweaked Resume<br>Reading<br>English words |
 | 20210130 | English words |
 | 20210129 | Reading |
