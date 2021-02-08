@@ -7,6 +7,11 @@
 
 | Date | What I studied |
 |:---:|:---:|
+| 20210207 | Interview Prep<br>English words<br>Git |
+| 20210206 | Git<br>English words |
+| 20210205 | Interview Prep<br>English words<br>Merge&Quick Sort<br>Git |
+| 20210204 | Merge&Quick Sort<br>Networking<br>Palindrome decomposition of a string<br>English words |
+| 20210203 | Sorting<br>Networking<br>English<br>Recursion |
 | 20210202 | Sorting<br>Interview Prep<br>English |
 | 20210201 | LinkedIn Prep<br>Interview Prep<br>Quick Sort<br>Merge Sort<br>Using heap when sorting<br>Sorting Problems |
 | 20210131 | Tweaked Resume<br>Reading<br>English words |
