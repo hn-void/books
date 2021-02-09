@@ -1,7 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 [My Record of Reading](index.html)<br>
-[Stacks of Books to Read](sobtr.html)<br>
 
 # Today I learned
 
