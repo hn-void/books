@@ -1,12 +1,14 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-[Record of Reading](index.html)<br>
+[My Record of Reading](index.html)<br>
 [Stacks of Books to Read](sobtr.html)<br>
 
-# What I learned
+# Today I learned
 
-| Date | What I studied |
+| Date | TIL |
 |:---:|:---:|
+| 20210209 | Git<br>Interview Prep |
+| 20210208 | Interview Prep<br>Survey job-listings<br>English words<br>Git |
 | 20210207 | Interview Prep<br>English words<br>Git |
 | 20210206 | Git<br>English words |
 | 20210205 | Interview Prep<br>English words<br>Merge&Quick Sort<br>Git |
