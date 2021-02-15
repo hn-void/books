@@ -6,6 +6,11 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210214 | Resume<br>Flask<br>HTML |
+| 20210213 | Flask |
+| 20210212 | Flask |
+| 20210211 | Interview Prep<br>English words |
+| 20210210 | Interview Prep<br>English words<br>Flask |
 | 20210209 | Git<br>Interview Prep |
 | 20210208 | Interview Prep<br>Survey job-listings<br>English words<br>Git |
 | 20210207 | Interview Prep<br>English words<br>Git |
