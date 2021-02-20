@@ -6,7 +6,7 @@
 
 | Date | TIL |
 |:---:|:---:|
-| 20210219 | LinkedIn |
+| 20210219 | LinkedIn<br>Resume<br>Flask |
 | 20210218 | Flask |
 | 20210217 | Coding |
 | 20210216 | Coding |
