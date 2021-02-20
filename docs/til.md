@@ -6,6 +6,11 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210219 | LinkedIn |
+| 20210218 | Flask |
+| 20210217 | Coding |
+| 20210216 | Coding |
+| 20210215 | Ubuntu<br>Coding |
 | 20210214 | Resume<br>Flask<br>HTML |
 | 20210213 | Flask |
 | 20210212 | Flask |
