@@ -6,6 +6,9 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210222 | Finish reading the book about Flask<br>some coding |
+| 20210221 | Flask<br>Resume<br>LinkedIn |
+| 20210220 | Flask<br>Resume |
 | 20210219 | LinkedIn<br>Resume<br>Flask |
 | 20210218 | Flask |
 | 20210217 | Coding |

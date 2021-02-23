@@ -6,7 +6,7 @@
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre | Comment |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Flask Web Development | Miguel Grinberg | WIP | 100 | WIP | Web | Mr. Miguel Grinberg has a repository with concrete codes about this book on GitHub so that I can check if I go right. It's cool. |
+| Flask Web Development | Miguel Grinberg | 70 | 100 | 20210222 | Web | Mr. Miguel Grinberg has a repository with concrete codes about this book on GitHub so that I can check if I go right. It's cool. |
 | Version Control with Git| Jon Loeliger&Matthew McCullough | 60 | 100 | 20210209 | Technology for SWE | Really helpful |
 | Essential English Words for The TOEFL Test | AmEnglish.com, Inc. | 80 | 100 | 20210103 | English | Beneficial for catching up with native English speakers |
 | Introducing GitHub | Peter Bell & Brent Beer | 95 | 70 | 20201224 | Technology for SWE | This book is perfect for a non-programmer who wants to know how software engineers in his/her company collaborate. However, there is nothing special for ordinary SWEs. If you are an entry-level programmer and entirely new to Git concepts, it is good to skim this book. |
