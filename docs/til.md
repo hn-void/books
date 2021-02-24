@@ -6,6 +6,7 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210223 | Develop a command-line tool(myTree) |
 | 20210222 | Finish reading the book about Flask<br>some coding |
 | 20210221 | Flask<br>Resume<br>LinkedIn |
 | 20210220 | Flask<br>Resume |
