@@ -6,8 +6,14 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210301 | Add post functions<br>English words |
+| 20210228 | Web Application |
+| 20210227 | Sick |
+| 20210226 | Build a web application |
+| 20210225 | Got sick<br>HTML+CSS |
+| 20210224 | Started to build a web application<br>HTML+CSS |
 | 20210223 | Develop a command-line tool(myTree) |
-| 20210222 | Finish reading the book about Flask<br>some coding |
+| 20210222 | Finish reading the book about Flask<br>some coding<br>HTML |
 | 20210221 | Flask<br>Resume<br>LinkedIn |
 | 20210220 | Flask<br>Resume |
 | 20210219 | LinkedIn<br>Resume<br>Flask |
