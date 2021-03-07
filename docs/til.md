@@ -6,6 +6,11 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210306 | Building a web application with Flask |
+| 20210305 | Building a web application with Flask |
+| 20210304 | Building a web application with Flask |
+| 20210303 | Tweak stylesheet<br>flask-wtf |
+| 20210302 | English words |
 | 20210301 | Add post functions<br>English words |
 | 20210228 | Web Application |
 | 20210227 | Sick |
