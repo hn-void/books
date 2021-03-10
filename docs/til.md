@@ -6,6 +6,9 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210309 | Finishing a web application<br>Heroku |
+| 20210308 | Building a web application with Flask<br>Ubuntu |
+| 20210307 | Building a web application with Flask<br>CSS |
 | 20210306 | Building a web application with Flask |
 | 20210305 | Building a web application with Flask |
 | 20210304 | Building a web application with Flask |
