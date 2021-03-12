@@ -1,11 +1,13 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 [My Record of Reading](index.html)<br>
+[Movies](movies.html)<br>
 
 # Today I learned
 
 | Date | TIL |
 |:---:|:---:|
+| 20210310 | Host a web application with Heroku |
 | 20210309 | Finishing a web application<br>Heroku |
 | 20210308 | Building a web application with Flask<br>Ubuntu |
 | 20210307 | Building a web application with Flask<br>CSS |

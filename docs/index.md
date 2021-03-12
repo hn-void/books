@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 [Today I learned](til.html)<br>
+[Movies](movies.html)<br>
 
 # My Record of Reading
 
