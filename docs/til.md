@@ -7,6 +7,8 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210312 | HTML&CSS |
+| 20210311 | Did some coding<br>Fluent Python |
 | 20210310 | Host a web application with Heroku |
 | 20210309 | Finishing a web application<br>Heroku |
 | 20210308 | Building a web application with Flask<br>Ubuntu |
