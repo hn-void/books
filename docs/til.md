@@ -7,6 +7,9 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210315 | Python homework<br>HTML&CSS |
+| 20210314 | Python homework |
+| 20210313 | HTML&CSS |
 | 20210312 | HTML&CSS |
 | 20210311 | Did some coding<br>Fluent Python |
 | 20210310 | Host a web application with Heroku |
