@@ -7,6 +7,7 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210318 | Read books about Python |
 | 20210317 | Read books about Python |
 | 20210316 | Finished reading a book about HTML&CSS<br>Read books about Python |
 | 20210315 | Python homework<br>HTML&CSS |
