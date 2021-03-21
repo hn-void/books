@@ -7,6 +7,8 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210321 | Read a book about Python |
+| 20210320 | Rest |
 | 20210319 | English Speaking<br>Read books about Python |
 | 20210318 | Read books about Python |
 | 20210317 | Read books about Python |
