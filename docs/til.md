@@ -8,8 +8,8 @@
 | Date | TIL |
 |:---:|:---:|
 | 20210325 | Read books(Python, self-help) |
-| 20210324 | Read a book about Python<br>Watched videos on YouTube<br>Read a book |
-| 20210323 | Read a book about Python<br>Watched videos on YouTube|
+| 20210324 | Watched videos on YouTube<br>Read a book about Python<br>Researched a little about Java<br>Read a book |
+| 20210323 | Read a book about Python<br>Watched videos on YouTube |
 | 20210322 | Read a book about Python<br>Watched videos on YouTube |
 | 20210321 | Read a book about Python |
 | 20210320 | Rest |
