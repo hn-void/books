@@ -7,6 +7,7 @@
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre | Comment |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Unfu\*k Yourself | Gary John Bishop | 70 | 70 | WIP | Self-Help, Spirituality | includes some interesting thoughts |
 | HTML&CSS design and build websites | Jon Duckett | 70 | 90 | 20210316 | Web | This book covers fundamental knowledge to practical tips. I believe it is good for a newbie web developer. |
 | Flask Web Development | Miguel Grinberg | 70 | 100 | 20210222 | Web | Mr. Miguel Grinberg has a repository with concrete codes about this book on GitHub so that I can check if I go right. It's cool. |
 | Version Control with Git| Jon Loeliger&Matthew McCullough | 60 | 100 | 20210209 | Technology for SWE | Really helpful |
