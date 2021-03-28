@@ -7,6 +7,9 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210328 | Finished reading 'Unfu\*k Yourself'<br>Read a book about Python |
+| 20210327 | Read a book(self-help)<br>Speaking |
+| 20210326 | Read books(Python, self-help) |
 | 20210325 | Read books(Python, self-help) |
 | 20210324 | Watched videos on YouTube<br>Read a book about Python<br>Researched a little about Java<br>Read a book |
 | 20210323 | Read a book about Python<br>Watched videos on YouTube |
