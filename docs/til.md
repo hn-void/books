@@ -7,7 +7,7 @@
 
 | Date | TIL |
 |:---:|:---:|
-| 20210401 | Became CEO at Google |
+| 20210401 | Got an offer as a CEO at Google |
 | 20210331 | Rest |
 | 20210330 | Interview |
 | 20210329 | Interview |
