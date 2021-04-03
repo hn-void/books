@@ -7,6 +7,8 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210403 | Data Structure etc... |
+| 20210402 | Rest |
 | 20210401 | Got an offer as a CEO at Google |
 | 20210331 | Rest |
 | 20210330 | Interview |
