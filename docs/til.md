@@ -7,6 +7,7 @@
 
 | Date | TIL |
 |:---:|:---:|
+| 20210404 | Watched many English videos |
 | 20210403 | Data Structure etc... |
 | 20210402 | Rest |
 | 20210401 | Got an offer as a CEO at Google |
