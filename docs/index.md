@@ -7,6 +7,8 @@
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre | Comment |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Django for APIs | William S. Vincent | 70 | 85 | 20210410 | Web framework | |
+| Django for Beginners | William S. Vincent | 80 | 90 | 20210409 | Web framework | |
 | Unfu\*k Yourself | Gary John Bishop | 90 | 75 | 20210328 | Self-Help, Spirituality | includes some interesting thoughts |
 | HTML&CSS design and build websites | Jon Duckett | 70 | 90 | 20210316 | Web | This book covers fundamental knowledge to practical tips. I believe it is good for a newbie web developer. |
 | Flask Web Development | Miguel Grinberg | 70 | 100 | 20210222 | Web | Mr. Miguel Grinberg has a repository with concrete codes about this book on GitHub so that I can check if I go right. It's cool. |

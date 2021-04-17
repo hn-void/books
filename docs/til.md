@@ -7,6 +7,14 @@
 
 | Date | TIL |
 |:---:|:---:|
+=======
+| 20210408 | Django |
+| 20210407 | miscellaneous work<br>Django |
+| 20210406 | miscellaneous work<br>Celery<br>RabbitMQ |
+| 20210405 | miscellaneous work<br>Networking |
+| 20210404 | Watched many English videos |
+| 20210403 | Data Structure etc... |
+| 20210402 | Rest |
 | 20210401 | Got an offer as a CEO at Google |
 | 20210331 | Rest |
 | 20210330 | Interview |
