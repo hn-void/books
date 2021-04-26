@@ -7,6 +7,7 @@
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre | Comment |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Django for Professionals | William S. Vincent | 70 | 85 | 20210425 | Web framework | |
 | Javascript & JQuery | Jon Duckett | 55 | 80 | 20210420 | Web | |
 | Django for APIs | William S. Vincent | 70 | 85 | 20210410 | Web framework | |
 | Django for Beginners | William S. Vincent | 80 | 90 | 20210409 | Web framework | |
