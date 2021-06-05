@@ -9,3 +9,4 @@
 |:---:|:---:|
 | Activ8 | Condescending, Irritating, Tried to make me a tech-support |
 | SynergisticIT | Tried to sell their bootcamp(cf. [glassdoor](https://www.glassdoor.ca/Interview/SynergisticIT-Interview-Questions-E424823.htm) <- It helps very much) |
+| Revature | Servitude |
