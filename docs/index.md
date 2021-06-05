@@ -1,12 +1,10 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-[Today I learned](til.html)<br>
-[Movies](movies.html)<br>
-
 # My Record of Reading
 
 | Title | Author | Understanding | (My Personal) Rating | Date | Genre | Comment |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| The Art of Readable Code | Boswell & Foucher | 85 | 70 | 20210605 | Programming | The last time I read this book was two years ago, and I completely forgot what's inside. So I decided to reread this book. I guess the contents in this book are not new to ordinary programmers. |
 | Django for Professionals | William S. Vincent | 70 | 85 | 20210425 | Web framework | |
 | Javascript & JQuery | Jon Duckett | 55 | 80 | 20210420 | Web | |
 | Django for APIs | William S. Vincent | 70 | 85 | 20210410 | Web framework | |

@@ -7,7 +7,6 @@
 
 | Date | TIL |
 |:---:|:---:|
-=======
 | 20210408 | Django |
 | 20210407 | miscellaneous work<br>Django |
 | 20210406 | miscellaneous work<br>Celery<br>RabbitMQ |
